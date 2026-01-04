@@ -1,3 +1,4 @@
+
 <div align="center">
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
@@ -50,16 +51,6 @@
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-
-[![Guilherme-GVDS GitHub stats](https://github-readme-stats.vercel.app/api?username=Guilherme-GVDS&theme=radical)](https://github.com/Guilherme-GVDS/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilherme-GVDS&theme=radical)](https://github.com/Guilherme-GVDS/github-readme-stats)
-
-
-###
 
 <br clear="both">
 
